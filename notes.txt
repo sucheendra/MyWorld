@@ -13,3 +13,33 @@ Git hub password: suchi2011
 
 SSH Key password: suchigit
 mail id: prsuchi@gmail.com
+
+*********************************
+git add *
+git remote rm origin
+git push -u origin master
+git commit -m
+git commit -a -m "Test again"
+
+
+Global setup:
+ Download and install Git
+  git config --global user.name "Sucheendra Pisale"
+  git config --global user.email prsuchi@gmail.com
+        Next steps:
+  mkdir MyWorld
+  cd MyWorld
+  git init
+  touch README
+  git add README
+  git commit -m 'first commit'
+  git remote add origin git@github.com:sucheendra/MyWorld.git
+  git push -u origin master
+      Existing Git Repo?
+  cd existing_git_repo
+  git remote add origin git@github.com:sucheendra/MyWorld.git
+  git push -u origin master
+      Importing a Subversion Repo?
+  Click here
+      When you're done:
+  Continue
