@@ -1,0 +1,15 @@
+python -m SimpleHTTPServer 9999
+
+on explorer : localhost:9999
+
+setup github
+create own repository
+do clone in to local 
+
+proGit text books
+
+User name: sucheendra
+Git hub password: suchi2011
+
+SSH Key password: suchigit
+mail id: prsuchi@gmail.com
