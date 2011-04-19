@@ -20,6 +20,7 @@ git remote rm origin
 git push -u origin master
 git commit -m
 git commit -a -m "Test again"
+git clean -df
 
 
 Global setup:
